@@ -36,8 +36,8 @@ Este projeto implementa uma **Deep Convolutional Generative Adversarial Network 
 
 ### 1. Clonar o repositório
 ```bash
-git clone https://github.com/seu-usuario/dcgan-celeba.git
-cd dcgan-celeba
+git clone https://github.com/Viitor22/DCGAN.git
+cd DCGAN
 ```
 
 ### 2. Instalar dependências
